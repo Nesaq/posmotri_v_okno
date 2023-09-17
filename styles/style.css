@@ -155,11 +155,6 @@ ol {
   border: 1px solid #fff;
 }
 
-/* .result {
-  display: flex;
-  flex-direction: column;
-} */
-
 .result__video-container {
   position: relative;
   min-width: 711px;
