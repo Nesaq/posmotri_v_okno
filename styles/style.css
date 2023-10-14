@@ -146,10 +146,16 @@ ol {
   background-color: #545050;
 }
 
+.content__card-link:active,
+.content__card-link_current {
+  background-color: #545050;
+}
+
 .content__card-link_current:hover {
   cursor: pointer;
   text-decoration-line: underline;
   text-decoration-color: #fff;
+  background-color: #545050;
 }
 
 .content__card-link:focus {
